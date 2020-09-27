@@ -2,6 +2,10 @@
 
 ### Author: Maciej Majewski
 
+
+![JavaLab.io](/images/javalab.io.jpg)
+
+
 ![Research lab portfolio containing web applications in Java using several frameworks, libraries and ecosystems, including databases](/images/java-lab-apps.jpg)
 
 Research lab portfolio containing web applications in Java using several frameworks, libraries and ecosystems, including databases. 
