@@ -36,5 +36,5 @@ Apache Maven: 3.3.0
 
 ### Project's features: 
 Project's features:
-* Linux, macOS, Git, Docker, Kubernetes, AWS, Azure, Elasticsearch, Kibana
+* AWS, Azure, Linux, macOS, Git, Docker, Kubernetes, Elasticsearch, Kibana
 
