@@ -35,6 +35,5 @@ Apache Maven: 3.3.0
 * SQL
 
 ### Project's features: 
-Project's features:
-* AWS, Azure, Linux, macOS, Git, Docker, Kubernetes, Elasticsearch, Kibana
+* AWS, Azure, Databases, Linux, macOS, Git, Docker, Kubernetes, Elasticsearch, Kibana
 
